@@ -1,6 +1,8 @@
 # 0xF0 0x9F 0x91 0xB9
 
-![image](https://github.com/grifftang/Art_ML_Project_1/blob/master/images/devolve_kusama_large_3.png)
+
+
+![image](https://github.com/grifftang/Art_ML_Project_1/blob/master/images/final_image.png)
 *IDEM IMPETRAVIT A DEO UT MAGUS A DEMONIBUS DISCERPERETUR*
 
 *THE DEMONS BEGGED TO BE TORN APART BY GOD, AND FOR MAGUS THE SAME*
