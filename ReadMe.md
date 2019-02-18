@@ -2,7 +2,7 @@
 
 The source images are in the directory of this repository.
 
-[Link to the Project report](https://docs.google.com/document/d/1N44HVqvK4bAXiZeKLNvjzPCyjer4wIdHBnHLHqU01Qw/)
+[Link to the Project report](https://github.com/grifftang/Art_ML_Project_1/blob/master/Group10_proj1.pdf)
 
 ![image](https://github.com/grifftang/Art_ML_Project_1/blob/master/images/final_image.png)
 *IDEM IMPETRAVIT A DEO UT MAGUS A DEMONIBUS DISCERPERETUR*
