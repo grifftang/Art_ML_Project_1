@@ -1,4 +1,4 @@
-# 0xF0 0x9F 0x91 0xB9
+# U+1F940
 
 The source images are in the directory of this repository.
 
